@@ -4,7 +4,7 @@
 - 📫 How to reach me: telegram [@bdim404](https://t.me/bdim404) or email work@bdim.moe
 - 😄 Home: https://bdim.moe
 
-![bdim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdim404)
+![bdim's GitHub stats](https://github-readme-stats.vercel.app/api?username=bdim404&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bdim404/bdim404/output/github-contribution-grid-snake-dark.svg">
