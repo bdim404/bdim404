@@ -15,9 +15,7 @@
       <p>
         <img src="https://komarev.com/ghpvc/?username=bdim404&abbreviated=true" alt="Profile Views" />
       </p>
-      <p>🔭 I’m <strong>bdim</strong> and I am a student.</p>
-      <p>🌱 Currently learning <strong>Music Intelligence</strong>.</p>
-      <p>👯 Looking to collaborate on <strong>Music Intelligence</strong> projects.</p>
+      <p>🔭 I’m <strong>bdim</strong> </p>
       <p>💬 Ask me about <strong>Music, AI, and Networking</strong>.</p>
       <p>📫 Reach me via email <a href="mailto:work@bdim.moe">work@bdim.moe</a>.</p>
       <p>😄 Home: <a href="https://bdim.moe">bdim.moe</a></p>
