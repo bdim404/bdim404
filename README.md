@@ -10,6 +10,7 @@
 ## About Me
 
 <img src="https://komarev.com/ghpvc/?username=bdim404&abbreviated=true" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dify_downloads-2689-blue" alt="Dify Downloads" />
 
 I’m bdim
 
