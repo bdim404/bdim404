@@ -41,10 +41,8 @@ def main():
         with open('README.md', 'w') as f:
             f.write(new_content)
         print(f'Updated README.md with total downloads: {total}')
-        sys.exit(0)
     else:
         print(f'No changes needed. Total downloads: {total}')
-        sys.exit(1)
 
 if __name__ == '__main__':
     main()
