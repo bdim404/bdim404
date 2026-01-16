@@ -6,7 +6,8 @@ import sys
 PLUGINS = [
     'bdim/abstracts-index',
     'bdim/steam',
-    'bdim/tianyancha'
+    'bdim/tianyancha',
+    'bdim/zhipuai_web_search'
 ]
 
 def fetch_install_count(plugin_id):
