@@ -9,9 +9,7 @@
 ---
 ## About Me
 
-<img src="https://komarev.com/ghpvc/?username=bdim404&abbreviated=true" alt="Profile Views" />
-<img src="https://img.shields.io/github/stars/bdim404?style=flat&label=Total%20Stars&color=yellow&logo=github" alt="Total Stars" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:bdim404&query=$.total_count&label=Total%20Commits&color=blue&logo=github" alt="Total Commits" />
+<img src="https://komarev.com/ghpvc/?username=bdim404&abbreviated=true" alt="Profile Views" /> <img src="https://img.shields.io/github/stars/bdim404?style=flat&label=Total%20Stars&color=yellow&logo=github" alt="Total Stars" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:bdim404&query=$.total_count&label=Total%20Commits&color=blue&logo=github" alt="Total Commits" />
 
 👋 I'm **bdim**
 
