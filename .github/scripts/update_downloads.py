@@ -12,7 +12,8 @@ PLUGINS = [
 
 def fetch_install_count(plugin_id):
     url = f'https://marketplace.dify.ai/api/v1/plugins/{plugin_id}'
-    with urllib.request.urlopen(url) as response:
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    with urllib.request.urlopen(req) as response:
         data = json.loads(response.read())
         return data['data']['plugin']['install_count']
 
