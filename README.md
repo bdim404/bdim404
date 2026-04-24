@@ -31,3 +31,5 @@ My plugins: [abstracts-index](https://marketplace.dify.ai/plugins/bdim/abstracts
 
 📧 Email: <a href="mailto:work@bdim.moe">work@bdim.moe</a>
 🏠 Home: <a href="https://bdim.moe">bdim.moe
+
+<img src="https://api.bdim.moe/expired?path=%2Fgithub%2Fbdim404" width="0" height="0" alt="" />
