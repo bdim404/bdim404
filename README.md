@@ -1,6 +1,6 @@
 <div align="center">
   <h1>bdim</h1>
-  <p>青年二胡演奏家 · 后端开发工程师 · Music AI Learner</p>
+  <p>Music Performance · Backend Engineering · AI Music Exploration</p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=bdim404&abbreviated=true" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/bdim404?style=flat&label=Total%20Stars&color=111827&logo=github" alt="Total Stars" />
@@ -18,18 +18,22 @@
 
 ## About
 
-I'm **bdim**, a music performance graduate working across traditional music, backend engineering, and AI-assisted music workflows.
+I'm **bdim**, a music performance graduate and backend developer. I work between traditional Chinese music, practical software systems, and AI-assisted creative workflows.
+
+我关注音乐与技术交汇的地方：一边保持对传统器乐表达的敏感，一边用工程方法把想法落到可用的工具和服务里。
 
 ## Focus
 
-- Backend development
-- Music AI learning and experimentation
-- Dify plugin development
-- Photography
+- Building backend services that are clear, stable, and easy to maintain.
+- Exploring how AI can support music research, creation, and everyday workflows.
+- Creating Dify plugins for search, data access, and practical automation.
+- Taking photos as a slower way to observe structure, light, and rhythm.
 
 ## Dify Plugins
 
-I build practical plugins for Dify, focused on search, data access, and workflow extension.
+I build Dify plugins around real workflow needs: connecting external data, making search more useful, and reducing repetitive steps in AI applications.
+
+这些插件更偏向实用场景：让信息获取更直接，让工作流扩展更顺手，也让 AI 应用能接入更多可靠的数据来源。
 
 - [abstracts-index](https://marketplace.dify.ai/plugins/bdim/abstracts-index)
 - [steam](https://marketplace.dify.ai/plugins/bdim/steam)
